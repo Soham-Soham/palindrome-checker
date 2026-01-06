@@ -10,7 +10,7 @@
    cd Server
 2. Install dependencies
    ```bash
-   npm run dev
+   npm install
 3. Start the server
    ```bash
    npm run dev or npm start
@@ -18,7 +18,7 @@
    ```bash
    http://localhost:8000
 
-### Frontend
+### 2️⃣ Frontend
 
 1. Navigate to the client folder
    ```bash
